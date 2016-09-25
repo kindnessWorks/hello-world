@@ -1,2 +1,7 @@
 # hello-world
-Required Repository
+Hi IT World,
+
+Happy to be here!
+
+~me
+
